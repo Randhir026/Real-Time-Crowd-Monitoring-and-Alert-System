@@ -1,0 +1,9 @@
+# Core dependencies
+torch>=1.9.0
+opencv-python
+matplotlib
+numpy
+
+# Optional but recommended
+Pillow
+tqdm
